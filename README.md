@@ -1,4 +1,4 @@
-Energy Efficiency Analysis in Buildings
+## **Energy Efficiency Analysis in Buildings**
 
 This repository presents an exploratory analysis and modeling approach to evaluate energy efficiency in buildings, specifically targeting the heating and cooling loads. The project utilizes the UCI Energy Efficiency dataset to identify significant predictors influencing energy consumption, applying regression analysis and Bayesian modeling techniques.
 
